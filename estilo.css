@@ -1,0 +1,23 @@
+        .primeira{
+            display:flex;
+            gap: 20px;
+            padding: 1px
+        }
+        .primeira1{
+            display:flex;
+            gap: 20px;
+             padding: 20px 200px
+        } 
+            .primeira2{
+            display:flex;
+            gap: 20px;
+            padding: 20px 350px
+        }      
+        .segunda{
+            display:flex;
+            gap: 20px;
+        }
+        .texto{
+            display:inline;
+            gap: 20px;
+        }        
