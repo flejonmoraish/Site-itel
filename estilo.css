@@ -1,0 +1,55 @@
+      *{
+        margin: 2px;
+        padding: 2px;
+        font-family: sans-serif;
+        text-decoration: none;
+      }
+      .primeira{
+            display:flex;
+            gap: 20px;
+            padding: 1px
+            
+        }
+        .primeira1{
+            display:flex;
+            gap: 20px;
+            padding: 20px 200px
+        } 
+            .primeira2{
+            display:flex;
+            gap: 20px;
+            padding: 20px 350px
+        }      
+        .segunda{
+            display:flex;
+            gap: 20px;
+        }
+        .texto{
+            display:flex;
+            gap: 10px;
+            justify-content: center;
+        }      
+        .bor{
+            border: 2px solid rgb(44, 44, 180);
+            background-color: rgb(44, 44, 180); 
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            box-shadow: 2px 2px 2px 2px;
+            border-radius: 15px;
+            height: 100px;
+            gap: 2px;
+
+        }  
+
+        .nav{
+            margin: 0 15px;
+            color: black;
+        }
+        .im{
+            position: absolute;
+            left: 10px;
+            border-radius: 20px;
+            box-shadow: 20px;
+        }
